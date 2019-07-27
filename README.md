@@ -1,6 +1,8 @@
 ## Welcome to Week 1! Before you begin please read through the set up steps below.
 
+
 Learning Objective 1: We want to learn how to write HTML, CSS and Javscript. 
+
 Learning Objective 2: We will understand how GitHub works so we can store our code online and use GitHub Pages.
 
 ### Supporting Video and full walkthrough
