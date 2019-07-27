@@ -23,13 +23,15 @@ Download a code editor:
 #### Step 2
 
 Create a free GitHub account [here](https://github.com/join)
+
 Download Git onto your machine [(Windows Link)](https://git-scm.com/downloads) [(Mac Link)](https://hackernoon.com/install-git-on-mac-a884f0c9d32c)
+
 Link your GitHub account to your terminal [docs](https://help.github.com/en/articles/setting-your-username-in-git)
 
 #### Step 3
 
-Create your first repository in the GitHub UI
-Clone it to your computer
-Add / Edit files, stage and commit
-Repeat but with a branch
-Git Common Commands
+1. Create your first repository in the GitHub UI
+2. Clone it to your computer
+3. Add / Edit files, stage and commit
+4. Repeat but with a branch
+5. Git Common Commands
