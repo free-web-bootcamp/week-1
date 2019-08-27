@@ -1,4 +1,4 @@
-# Welcome to Week 1 of the Bootcamp!
+# Welcome to Week 1, Day 1 of the Bootcamp!
 
 ### Prerequisite
 
@@ -9,18 +9,15 @@ Please complete the "Set up" playlist of videos if you don't already have the fo
 - Folder structure for Week 1
 - GitHub account (to help create your online portfolio)
 
-### Link to Playlist on YouTube
+### Link to Week 1 Playlist on YouTube
 
-https://www.youtube.com/playlist?list=PLsfDC7zKu3M1Cpr7990s54rJTSvdTi3lb
+TBA
 
-### Learning Objectives
+### Learning Objective Day 1
 
-1. Understand and write HTML webpages
-2. Add CSS (styling) to our website
-3. Learn basic Javascript
-4. GitHub, Git and other version control
-5. Hosting website on GitHub pages
-6. Reflection and Challenge exercise
+1. Understand and write HTML webpages (very important that you don't rush this concept)
+2. Ability to self learn by understanding documentation such as https://www.w3schools.com/html/default.asp
+3. Create an HTML webpage from scratch using documentation online and developer tools in your web browser (important - developers need these skills)
 
 ### What skills will I have at the end of week 1?
 
@@ -30,7 +27,15 @@ This is a great way to understand how websites work and gain the confidence of c
 
 ### How long should this take?
 
+Day 1 should take as long as neccessary before you're comfortable creating HTML webpages.
+
+Note:
+
 Even though it is week 1 of the bootcamp, please take longer if you need it. I personally learned these concepts over 12 weeks during lunch breaks at work, so there's no rush!
+
+### I'm done, what is next
+
+Study the material a second time so that it has time to sink in. Once you're ready, head on over to day two. Keep up the good work!
 
 ### When is week two released?
 
