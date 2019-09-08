@@ -2,6 +2,8 @@
 
 ### Video Tutorial Link
 
+https://youtu.be/SFMTylxTb64
+
 ### Prerequisite
 
 Please complete the "Set up" playlist of videos if you don't already have the following:
