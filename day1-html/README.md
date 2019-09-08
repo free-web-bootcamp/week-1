@@ -1,5 +1,7 @@
 # Welcome to Week 1, Day 1 of the Bootcamp!
 
+### Video Tutorial Link
+
 ### Prerequisite
 
 Please complete the "Set up" playlist of videos if you don't already have the following:
@@ -11,7 +13,7 @@ Please complete the "Set up" playlist of videos if you don't already have the fo
 
 ### Link to Week 1 Playlist on YouTube
 
-TBA
+https://www.youtube.com/playlist?list=PLsfDC7zKu3M1Cpr7990s54rJTSvdTi3lb
 
 ### Learning Objective Day 1
 
