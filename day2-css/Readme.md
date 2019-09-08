@@ -1,4 +1,8 @@
-# Welcome to Week 1 of the Bootcamp!
+# Welcome to Week 1 - Day Two of the Bootcamp!
+
+### Video Tutorial Link
+
+https://www.youtube.com/watch?v=qdUqIQxUkfc
 
 ### Prerequisite
 
@@ -9,18 +13,18 @@ Please complete the "Set up" playlist of videos if you don't already have the fo
 - Folder structure for Week 1
 - GitHub account (to help create your online portfolio)
 
-### Link to Playlist on YouTube
+Please also complete Day 1 content (HTML) before starting with CSS.
+
+### Link to Week 1 Playlist on YouTube
 
 https://www.youtube.com/playlist?list=PLsfDC7zKu3M1Cpr7990s54rJTSvdTi3lb
 
 ### Learning Objectives
 
-1. Understand and write HTML webpages
-2. Add CSS (styling) to our website
-3. Learn basic Javascript
-4. GitHub, Git and other version control
-5. Hosting website on GitHub pages
-6. Reflection and Challenge exercise
+1. Learn CSS
+2. Use Classes and ID’s
+3. Google Styles
+4. Add external CSS (Bootstrap)
 
 ### What skills will I have at the end of week 1?
 
