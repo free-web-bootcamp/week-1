@@ -1,13 +1,15 @@
 ## Welcome to Week 1! Before you begin please read through the set up steps below.
 
 
-Learning Objective 1: We want to learn how to write HTML, CSS and Javscript. 
-
-Learning Objective 2: We will understand how GitHub works so we can store our code online and use GitHub Pages.
+Learning Objectives:
+- Download code editor
+- Set up Git Bash / Terminal
+- Extensions (optional)
+- Move on to Week 1 !
 
 ### Supporting Video and full walkthrough
 
-Video coming soon....
+Video guide: https://youtu.be/KFOS3u6KClc
 
 ### Supporting documentation
 
@@ -26,12 +28,4 @@ Create a free GitHub account [here](https://github.com/join)
 
 Download Git onto your machine [(Windows Link)](https://git-scm.com/downloads) [(Mac Link)](https://hackernoon.com/install-git-on-mac-a884f0c9d32c)
 
-Link your GitHub account to your terminal [docs](https://help.github.com/en/articles/setting-your-username-in-git)
-
-#### Step 3
-
-1. Create your first repository in the GitHub UI
-2. Clone it to your computer
-3. Add / Edit files, stage and commit
-4. Repeat but with a branch
-5. Git Common Commands
+Link your GitHub account to your terminal [docs](https://help.github.com/en/articles/setting-your-username-in-git)  (optional)
